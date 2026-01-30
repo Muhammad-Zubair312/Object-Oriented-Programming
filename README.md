@@ -8,7 +8,7 @@ This repository contains a collection of C++ projects and assignments demonstrat
 
 ### [01-Basics](./01-Basics/)
 *   **Concepts:** Classes, Objects, Constructors, Destructors, Encapsulation.
-*   **Key Files:** `Employee-Class.cpp`, `Basics-Q14.cpp`.
+*   **Key Files:** `Employee-Class.cpp`, `Basics.cpp`.
 *   **Description:** Fundamental examples of defining classes and managing object state.
 
 ### [02-Operator-Overloading](./02-Operator-Overloading/)
