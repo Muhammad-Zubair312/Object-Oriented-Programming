@@ -1,0 +1,25 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Dynamic Libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Data files (specific to your assignments)
+*.dat
+*.txt
+*.tmp
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
